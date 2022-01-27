@@ -24,6 +24,7 @@ THEN the saved events persist
 
 ## Screenshot
 <img src="./assets/images/screenshot.png" />
+
 ## Deployed URl
 https://chris-pietrangeli.github.io/Event-tracker/
 
